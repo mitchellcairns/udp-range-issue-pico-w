@@ -1,11 +1,11 @@
 !.vscode/*
 
+build/
+
 !build/device_beacon.uf2
 
 !build/device_access.uf2
 
 build/CMakeFiles/device_access.dir/C_/Users/Mitch/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/
-
-build/
 
 .vscode/
